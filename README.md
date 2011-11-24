@@ -9,8 +9,8 @@ Viper SmartStart Control is a php script that connects to the Viper SmartStart s
 Demo Videos
 -----------
 
-See the script being called by a ruby plugin for "Siri Proxy" here: [http://www.youtube.com/watch?v=tAQMXbrDgbM](http://www.youtube.com/watch?v=tAQMXbrDgbM) and [http://www.youtube.com/watch?v=SO6RNO8t06c](http://www.youtube.com/watch?v=SO6RNO8t06c) 
-Read more about the "[https://github.com/plamoni/SiriProxy](Siri Proxy)" plugin here: [http://fiquett.com/?p=791](http://fiquett.com/?p=791)
+See the script being called by a ruby plugin for "[Siri Proxy](https://github.com/plamoni/SiriProxy)" here: [http://www.youtube.com/watch?v=tAQMXbrDgbM](http://www.youtube.com/watch?v=tAQMXbrDgbM) and [http://www.youtube.com/watch?v=SO6RNO8t06c](http://www.youtube.com/watch?v=SO6RNO8t06c) 
+Read more about the "[Siri Proxy](https://github.com/plamoni/SiriProxy)" plugin here: [http://fiquett.com/?p=791](http://fiquett.com/?p=791)
 
 
 
