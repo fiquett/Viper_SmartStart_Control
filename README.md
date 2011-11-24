@@ -23,9 +23,9 @@ If you are going to run via command line or through a http GET and do not want t
 Copy the file viper_control.php to your web server.
 
 Run from CLI:
+	
 	$ php path_to_web_dir\viper_control.php
 	Running from CLI
-	
 	Requesting Session ID...
 	Session ID: ******censored******* 
 	Getting Vechicle List...
