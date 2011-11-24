@@ -10,6 +10,8 @@ Demo Videos
 -----------
 
 See the script being called by a ruby plugin for "Siri Proxy" here: [http://www.youtube.com/watch?v=tAQMXbrDgbM](http://www.youtube.com/watch?v=tAQMXbrDgbM) and [http://www.youtube.com/watch?v=SO6RNO8t06c](http://www.youtube.com/watch?v=SO6RNO8t06c) 
+Read more about the "[https://github.com/plamoni/SiriProxy](Siri Proxy)" plugin here: [http://fiquett.com/?p=791](http://fiquett.com/?p=791)
+
 
 
 Set-up Instructions
