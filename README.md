@@ -84,4 +84,4 @@ I'm not affiliated with Viper in any way. They don't endorse this application. T
 
 This software is provided as-is with no warranty whatsoever. 
 
-Viper could do things to block this kind of behavior if they want. Also, if you cause problems (by sending lots of trash to the Viper servers or anything), your on your own.
+Viper could do things to block this kind of behavior if they want, hopefully they do not. Also, if you cause problems (by sending lots of trash to the Viper servers or anything), your on your own.
