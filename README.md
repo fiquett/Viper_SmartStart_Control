@@ -18,7 +18,7 @@ Read more about the "[Siri Proxy](https://github.com/plamoni/SiriProxy)" plugin 
 Set-up Instructions
 -------------------
 
-If you are going to run via command line or through a http GET and do not want to pass in credentials, add your Viper SmartStart credentials on lines 9-10:
+If you are going to run via command line or through a http GET and do not want to pass in credentials, add your Viper SmartStart credentials on lines 9-10: (keep the single quotes around both) 
 
 	$smartstart_username = 'VIPER_EMAIL_ADDRESS';
 	$smartstart_password = 'VIPER_PASSWORD';
